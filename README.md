@@ -1,7 +1,13 @@
-## Hi there 👋
+# Prazer, Arthur Snows! ❄
+
+##Conhecimentos em:
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 
 <!--
 **Tuzinho-cn/Tuzinho-cn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
