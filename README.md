@@ -4,9 +4,9 @@ CONHECIMENTOS:
 
 Linguagens de programação:
 <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width= "40" height= "40" margin= "20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width= "40" height= "40" margin= "20px"/>
 <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width= "40" height= "40" margin= "20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width= "40" height= "40" margin= "20px"/>
 
 
 
