@@ -14,6 +14,7 @@ CONHECIMENTOS:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width= "40" height= "40" /> <!--REDIS -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width= "40" height= "40" /> <!--SUPABASE -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width= "40" height= "40" /> <!--VSCODE -->
+<img src="https://cdn.brandfetch.io/id7gN4JouK/w/260/h/260/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" width= "40" height= "40" /> <!--N8N -->
 
 
 
